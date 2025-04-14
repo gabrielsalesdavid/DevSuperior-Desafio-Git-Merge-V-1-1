@@ -148,4 +148,4 @@ Para realizar um merge da feature para o branch main. Digite o seguinte comando:
 
 Este comando seria para mesclar os dados de uma feature que foi clonada e teve dados inseridos sem que a pessoa saiba ou possa ter esquecido sobre os dados a mais no repositório remoto.
 
-![Merge com conflito](image/image-14.png)
+![Merge com conflito](image-14.png)
